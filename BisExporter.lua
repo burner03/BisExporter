@@ -1,4 +1,4 @@
--- BisExport.lua
+-- BisExporter.lua
 -- Export your equipped gear to BiS planner format
 
 local addonName, addon = ...

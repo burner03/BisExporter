@@ -6,4 +6,4 @@
 ## SavedVariables: BisExportDB
 
 LZString.lua
-BisExport.lua
+BisExporter.lua
