@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: BiS Export
+## Notes: Export your equipped gear to BISBeard url format. 
+## Author: Jr (wv.jr)
+## Version: 0.0.1
+## SavedVariables: BisExportDB
+
+LZString.lua
+BisExport.lua
