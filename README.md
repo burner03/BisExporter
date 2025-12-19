@@ -4,6 +4,6 @@ I just made this cause I wanted it, use it if you want, fork it or steal it i do
 
 type /bis to open it up. I think you can figure it out from there.
 
-![how it looks ingame](https://cdn.discordapp.com/attachments/1451226039215849681/1451281969261314088/image.png?ex=69459b28&is=694449a8&hm=6940c9fd122ba3750423cad4d1d11e670768a87837ac63b375dc1af5d97e8214&)
+![how it looks ingame](https://i.imgur.com/7PjZm7C.png)
 
 folder name in addons should be BisExporter (remove the -main but you probably already know this..)
